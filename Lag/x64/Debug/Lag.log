@@ -1,0 +1,6 @@
+﻿  Lag.cpp
+c:\users\voidr\source\repos\lag\lag\lag.cpp(88): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\voidr\source\repos\lag\lag\lag.cpp(100): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\voidr\source\repos\lag\lag\lag.cpp(101): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\voidr\source\repos\lag\lag\lag.cpp(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Lag.vcxproj -> C:\Users\VoidR\source\repos\Lag\x64\Debug\Lag.exe
